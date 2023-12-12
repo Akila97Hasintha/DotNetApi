@@ -1,0 +1,63 @@
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.deps.json
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.AssemblyReference.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfoInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfo.cs
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CoreCompileInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CopyComplete
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\refint\ContosoUniversity.Comon.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Comon\obj\Debug\net7.0\ref\ContosoUniversity.Comon.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.deps.json
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.AssemblyReference.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfoInputs.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfo.cs
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CoreCompileInputs.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.sourcelink.json
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CopyComplete
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\refint\ContosoUniversity.Comon.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ref\ContosoUniversity.Comon.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.deps.json
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.AssemblyReference.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfoInputs.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfo.cs
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CoreCompileInputs.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.sourcelink.json
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CopyComplete
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\refint\ContosoUniversity.Comon.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ref\ContosoUniversity.Comon.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.deps.json
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.AssemblyReference.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfoInputs.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.AssemblyInfo.cs
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CoreCompileInputs.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.sourcelink.json
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.csproj.CopyComplete
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\refint\ContosoUniversity.Comon.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ContosoUniversity.Comon.pdb
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Comon\obj\Debug\net7.0\ref\ContosoUniversity.Comon.dll

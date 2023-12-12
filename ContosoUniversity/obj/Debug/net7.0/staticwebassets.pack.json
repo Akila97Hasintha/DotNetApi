@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\admin\\admin.login.js",
+      "PackagePath": "staticwebassets\\js\\admin\\admin.login.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\admin\\admin.signup.js",
+      "PackagePath": "staticwebassets\\js\\admin\\admin.signup.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\axios.min.js",
+      "PackagePath": "staticwebassets\\js\\axios.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\course\\course.create.js",
+      "PackagePath": "staticwebassets\\js\\course\\course.create.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\course\\course.delete.js",
+      "PackagePath": "staticwebassets\\js\\course\\course.delete.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\course\\course.details.js",
+      "PackagePath": "staticwebassets\\js\\course\\course.details.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\course\\course.index.js",
+      "PackagePath": "staticwebassets\\js\\course\\course.index.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\course\\course.update.js",
+      "PackagePath": "staticwebassets\\js\\course\\course.update.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\student\\student.create.js",
+      "PackagePath": "staticwebassets\\js\\student\\student.create.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\student\\student.delete.js",
+      "PackagePath": "staticwebassets\\js\\student\\student.delete.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\student\\student.index.js",
+      "PackagePath": "staticwebassets\\js\\student\\student.index.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\js\\student\\student.update.js",
+      "PackagePath": "staticwebassets\\js\\student\\student.update.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Sample Work\\Api\\Contoso-University\\ContosoUniversity\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ContosoUniversity.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ContosoUniversity.Web.props",
+      "PackagePath": "build\\ContosoUniversity.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ContosoUniversity.Web.props",
+      "PackagePath": "buildMultiTargeting\\ContosoUniversity.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ContosoUniversity.Web.props",
+      "PackagePath": "buildTransitive\\ContosoUniversity.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

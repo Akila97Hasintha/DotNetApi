@@ -1,0 +1,59 @@
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.deps.json
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.runtimeconfig.json
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.AssemblyReference.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfoInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfo.cs
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\refint\ContosoUniversity.DataAccess.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.genruntimeconfig.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ref\ContosoUniversity.DataAccess.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.deps.json
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.runtimeconfig.json
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.AssemblyReference.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfoInputs.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfo.cs
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.CoreCompileInputs.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.sourcelink.json
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\refint\ContosoUniversity.DataAccess.dll
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.genruntimeconfig.cache
+D:\Sample Work\ContosoUniversity repository model\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ref\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.deps.json
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.runtimeconfig.json
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.AssemblyReference.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfoInputs.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfo.cs
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.CoreCompileInputs.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.sourcelink.json
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\refint\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.genruntimeconfig.cache
+D:\Sample Work\Auth\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ref\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.deps.json
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.runtimeconfig.json
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.AssemblyReference.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfoInputs.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.AssemblyInfo.cs
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.csproj.CoreCompileInputs.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.sourcelink.json
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\refint\ContosoUniversity.DataAccess.dll
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.pdb
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.DataAccess.genruntimeconfig.cache
+D:\Sample Work\Api\Contoso-University\ContosoUniversity.Data\obj\Debug\net7.0\ref\ContosoUniversity.DataAccess.dll

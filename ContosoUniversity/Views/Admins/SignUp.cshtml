@@ -1,0 +1,41 @@
+﻿@model ContosoUniversity.Web.Models.AdminModel
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<h1>Sign Up</h1>
+
+<h4>Admin</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="frmAdmin">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control inputs" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control inputs" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailAddress" class="control-label"></label>
+                <input asp-for="EmailAddress" class="form-control inputs" type="email" />
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control inputs" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="button" value="SignUp" class="btn btn-primary" id="btnSignUp" />
+            </div>
+        </form>
+    </div>
+</div>
+<script src="~/js/admin/admin.signup.js"></script>

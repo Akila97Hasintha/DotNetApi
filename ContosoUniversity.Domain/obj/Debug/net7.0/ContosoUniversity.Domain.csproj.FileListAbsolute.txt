@@ -1,0 +1,11 @@
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\bin\Debug\net7.0\ContosoUniversity.Domain.deps.json
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\bin\Debug\net7.0\ContosoUniversity.Domain.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\bin\Debug\net7.0\ContosoUniversity.Domain.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ContosoUniversity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ContosoUniversity.Domain.AssemblyInfoInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ContosoUniversity.Domain.AssemblyInfo.cs
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ContosoUniversity.Domain.csproj.CoreCompileInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ContosoUniversity.Domain.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\refint\ContosoUniversity.Domain.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ContosoUniversity.Domain.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Domain\obj\Debug\net7.0\ref\ContosoUniversity.Domain.dll

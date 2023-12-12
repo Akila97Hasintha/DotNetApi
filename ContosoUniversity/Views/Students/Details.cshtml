@@ -1,0 +1,24 @@
+﻿@model int?
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <input type="hidden" value=@Model id="ID" />
+    <div id="studentDetailsPartial"></div>
+
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+
+<script src="~/js/student/student.details.js"></script>

@@ -1,0 +1,43 @@
+﻿@model ContosoUniversity.Models.EnrollmentModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<dl>
+    <dt>
+        @Html.DisplayNameFor(model => model.EnrollmentID)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.EnrollmentID)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.StudentID)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.StudentID)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.CourseID)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.CourseID)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Grade)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Grade)
+    </dd>
+    
+</dl>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.EnrollmentID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+

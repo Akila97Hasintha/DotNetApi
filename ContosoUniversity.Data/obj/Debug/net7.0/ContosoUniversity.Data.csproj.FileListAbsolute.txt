@@ -1,0 +1,17 @@
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.Data.deps.json
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.Data.runtimeconfig.json
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.Data.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.Data.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.Domain.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\bin\Debug\net7.0\ContosoUniversity.Domain.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.csproj.AssemblyReference.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.AssemblyInfoInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.AssemblyInfo.cs
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.csproj.CoreCompileInputs.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.csproj.CopyComplete
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\refint\ContosoUniversity.Data.dll
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.pdb
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ContosoUniversity.Data.genruntimeconfig.cache
+D:\Repositary\ContosoUniversity\ContosoUniversity.Data\obj\Debug\net7.0\ref\ContosoUniversity.Data.dll

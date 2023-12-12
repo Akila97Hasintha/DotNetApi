@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Content Remove="wwwroot\js\student\student.details.js" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <_ContentIncludedByDefault Remove="wwwroot\js\student\student.details.js" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+		<PackageReference Include="BCrypt.Net" Version="0.1.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.12">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.12" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12" />
+		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="7.0.12" />
+		<PackageReference Include="Microsoft.Owin.Security.Jwt" Version="4.2.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ContosoUniversity.Comon\ContosoUniversity.Comon.csproj" />
+	  <ProjectReference Include="..\ContosoUniversity.Data\ContosoUniversity.DataAccess.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="wwwroot\js\enrollment\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="wwwroot\js\student\student.details.js" />
+	</ItemGroup>
+
+</Project>
