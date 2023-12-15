@@ -13,7 +13,7 @@ namespace ContosoUniversity.Comon.Interfaces
         Task<IEnumerable<Student>> GetAllStudents();
         Task<List<int>> GetAllStudentIds();
         Task<Student> GetStudentById(int? id);
-        Task UpdateStudent(Student studentEntity);
+        Task UpdateStudent(Student studentEntity,int id);
         Task CreateStudent(Student studentEntity);
         Task DeleteStudent(int? id);
     }

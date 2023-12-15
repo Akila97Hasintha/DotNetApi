@@ -40,6 +40,7 @@ namespace ContosoUniversity.Controllers
       
         
         [HttpGet("Index")]
+
         public async Task<IActionResult> getStudentList(
  )
         {
@@ -121,31 +122,25 @@ namespace ContosoUniversity.Controllers
 
         //Post : Student/edit
         
-        [HttpPost("Edit")]
+        [HttpPut("Edit/{id}")]
        
-        public async Task<JsonResult> EditPost(int? id,StudentModel studentModel)
+        public async Task<ActionResult> EditPost(int id, [Bind("LastName,FirstMidName,EnrollmentDate")] StudentModel studentModel)
         {
 
-            var studentEntity = _map.studentModelToStudent(studentModel);
-
-
-            if (await TryUpdateModelAsync(studentModel, "",
-                c => c.FirstMidName, c => c.LastName,c => c.EnrollmentDate
-                ))
-            {
-                
                 try
                 {
-                    await studentServices.UpdateStudent(studentEntity);
-                    return Json(new {success = true});
+                    var studentNewEntity = _map.studentModelToStudent(studentModel);
+                    await studentServices.UpdateStudent(studentNewEntity,id);
+                return Json(new { success = true,student = studentNewEntity });
 
-                }
-                catch (DbUpdateException)
+
+            }
+            catch (DbUpdateException)
                 {
                     ModelState.AddModelError("", "unable to save ");
                 }
 
-            }
+            
             return Json(new { success = false });
         }
 

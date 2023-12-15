@@ -15,6 +15,6 @@ namespace ContosoUniversity.Models
         
         public DateTime EnrollmentDate { get; set; }
 
-        public ICollection<EnrollmentModel> Enrollments { get; set; }
+       
     }
 }

@@ -30,9 +30,9 @@ namespace ContosoUniversity.Comon.Servises
         {
             await studentsRepository.CreateStudent(studentEntity);
         }
-        public async Task UpdateStudent(Student studentEntity)
+        public async Task UpdateStudent(Student studentEntity,int id)
         {
-            await studentsRepository.UpdateStudent(studentEntity);
+            await studentsRepository.UpdateStudent(studentEntity,id);
         }
 
         public async Task DeleteStudent(int? id)
